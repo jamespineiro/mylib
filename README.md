@@ -1,0 +1,2 @@
+# mylib
+ custom c library
