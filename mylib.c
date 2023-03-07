@@ -150,7 +150,6 @@ void mergesort(int array[], int size)
 
 int nround(double n)
 {
-    n+=.5;
-    n = (int)n;
+    n = (int)(n+.5);
     return n;
 }
